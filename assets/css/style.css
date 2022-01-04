@@ -1,0 +1,158 @@
+body {
+    background-image: url("../../assets/img/darkmetalbg.jpg");
+    background-repeat: repeat;
+    background-size: 350px;
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+.white {
+    background-color: white;
+    padding: 1rem 2rem;
+}
+
+.grey {
+    background-color: rgb(236, 236, 236);
+    padding: 1rem 2rem;
+}
+
+.blk {
+    background-color: #111;
+    padding: 1rem 2rem;
+}
+
+.navbar-brand {
+    padding-right: 1.5rem;
+    border-right: 2px solid orangered;
+    height: auto;
+}
+
+.nav-item {
+    padding: 0 0.5rem;
+}
+
+.navbar {
+    border-bottom: 4px solid orangered;
+}
+
+.jumbotron {
+    border-radius: 0;
+    padding: 4rem 2rem;
+    background-image: url("../../assets/img/jumboyella.jpg");
+    background-size: cover;
+    background-position: center;
+    border-bottom: 4px solid orangered;
+    margin-bottom: 0;
+    transition: 0.2s linear; 
+}
+
+.jumbotronHovered {
+    background-image: url("../../assets/img/jumbo.jpg");
+    background-size: cover;
+    background-position: center;
+     transition: 0.2s linear;
+}
+
+.heroHovered {
+    font-weight: 900;
+    color:#333;
+    padding: 0 5px;
+    text-transform: uppercase;
+    background-color: white;;
+    transition: 0.2s linear; 
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px; 
+}
+
+h2 {
+    color: orangered;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin: 10px 0;
+}
+
+.hero {
+    font-weight: 900;
+    color: white;
+    background-color: #333;
+    padding: 0 5px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+}
+
+.lead {
+    display: 
+}
+
+iframe {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h3 {
+    color:black;
+    font-weight: 900;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.dborder {
+    border-right: 2px dashed lightgray;
+}
+
+.tstImg {
+    width:125px;
+    height: 125px;
+    float: left;
+    margin-right: 10px;
+    border: 3px solid white;
+}
+
+.red{
+    background-color: orangered;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 1rem 2rem;
+}
+
+.red p{
+    text-align: justify;
+    text-justify: auto;
+}
+
+.whiteText {
+    color: white;
+    font-weight: 900;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+blockquote {
+    margin-bottom: 0;
+}
+
+.heroAlt {
+    background-color: #333;
+    font-size: 3rem;
+    color:white;
+    padding: 0 5px;
+
+}
+
+.footer {
+    background-color: gold;
+    font-size: 0.8rem;
+    font-weight: 900;
+    color: #333;
+    margin: 0;
+}
